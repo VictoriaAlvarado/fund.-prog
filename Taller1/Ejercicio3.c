@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 int main() {
     int read_cl,read_prod;
